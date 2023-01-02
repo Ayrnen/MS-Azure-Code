@@ -1,0 +1,18 @@
+Code,Name,Type
+TRY,Turkish Lira,Fiat
+JPY,Japanese Yen,Fiat
+CNY,Chinese Yuan,Fiat
+IDR,Indonesian Rupiah,Fiat
+SGD,Singapore Dollar,Fiat
+INR,Indian Rupee,Fiat
+TND,Tunisian Dinar,Fiat
+PKR,Pakistani Rupee,Fiat
+NGN,Nigerian Naira,Fiat
+EUR,Euro,Fiat
+BTC,Bitcoin,Crypto
+ETH,Ethereum,Crypto
+BNB,Binance-Coin,Crypto
+XRP,Ripple,Crypto
+USDT,Tether,Stable
+BUSD,Binance-USD,Stable
+USDC,,Stable
